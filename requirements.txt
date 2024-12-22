@@ -1,3 +1,5 @@
 numpy
 matplotlib
 graphviz
+turicreate
+ipykernel
